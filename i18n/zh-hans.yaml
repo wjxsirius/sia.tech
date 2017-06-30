@@ -3,10 +3,10 @@
   translation: "关于"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: update translation
+  translation: "下载" # TODO: i18n: update translation
 
 - id: title_faq
-  translation: "经常问到的问题"
+  translation: "常见问题"
 
 - id: title_getsiacoin
   translation: "取得细亚币"
@@ -40,7 +40,7 @@
   translation: "区块链探索者"
 
 - id: discover_devdocs
-  translation: "研发者的文件"
+  translation: "开发文档"
 
 ### footer ###
 - id: footer_navheader
@@ -59,7 +59,7 @@
   translation: "论坛"
 
 - id: footer_siatalk
-  translation: "#siatalk on irc.freenode.net" # TODO: i18n: translate this.
+  translation: "#irc.freenode.net细亚币讨论区" # TODO: i18n: translate this.
 
 - id: footer_backedby
   translation: "被支持"
@@ -124,7 +124,7 @@
 
 ### calculation section ###
 - id: index_calculationheader
-  translation: "计算节省"
+  translation: "计算收益"
 
 - id: index_calculationamount
   translation: "多少TB?"
@@ -210,7 +210,7 @@
 
 ### milestones ###
 - id: milestones_idea
-  translation: "2013年十月：主意"
+  translation: "2013年十月：创意"
 
 - id: milestones_angel
   translation: "2014 6 月：天使投资" #TODO: i18n: is this translation correct?
@@ -225,10 +225,10 @@
   translation: "2016年6月：细亚 V1" #TODO: i18n: is this translation correct?
 
 - id: milestones_exchanges
-  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: translate this.
+  translation: "July 2016: Sia 在Poloniex, 云币, Bitsquare和 ShapeShift开始交易" # TODO: i18n: translate this.
 
 - id: milestones_funding2016
-  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
+  translation: "August 2016: Nebulous 为Sia注资75万美元" # TODO: i18n: translate this.
 
 
 # URL: /apps/index.html
@@ -240,7 +240,7 @@
   translation: "Sia-UI"
 
 - id: apps_uisubheader
-  translation: "For users" # TODO: translate
+  translation: "用户" # TODO: translate
 
 - id: apps_daemonheader
   translation: "Sia Daemon"
@@ -249,61 +249,61 @@
   translation: "Sia Daemon (LTS)"
 
 - id: apps_daemonsubheader
-  translation: "For developers" # TODO: translate
+  translation: "开发者" # TODO: translate
 
 - id: apps_minerheader
-  translation: "Miners" # TODO: translate
+  translation: "矿工" # TODO: translate
 
 ### miner ###
 - id: apps_download
   translation: "下载"
 
 - id: apps_miner
-  translation: "挖矿"
+  translation: "矿机"
 
 - id: apps_miner1
-  translation: "The official GPU miner" # TODO: translate
+  translation: "GPU矿机程序的官方版本" # TODO: translate
 
 - id: apps_altminer
-  translation: "另类的矿工"
+  translation: "其他矿机"
 
 - id: apps_altminer1
-  translation: "一个GPU 细亚矿工在 Go里"
+  translation: "GO语言开发的GPU矿机"
 
 - id: apps_sourcecode
-  translation: "Source code on GitHub"
+  translation: "GitHub上的源代码"
 
 ### built on sia ###
 - id: apps_builtheader
-  translation: "在细亚上所建"
+  translation: "基于细亚的应用"
 
 - id: apps_explorerh
-  translation: "区块探查者"
+  translation: "块浏览器"
 
 - id: apps_explorerp
-  translation: "细亚区块链探查者"
+  translation: "细亚区块链浏览器"
 
 - id: apps_minebox
-  translation: "Next generation NAS powered by Sia" # TODO: translate
+  translation: "基于Sia的下一代云存储" # TODO: translate
 
 - id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+  translation: "Sia的数据形式管理工具" # TODO: translate
 
 - id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+  translation: "用于GNOME外壳的Sia云存储扩展" # TODO: translate
 
 - id: apps_siapulse
-  translation: "Analytics tool for Sia" # TODO: translate
+  translation: "Sia分析工具" # TODO: translate
 
 
 # URL: /faq.html
 ### header ###
 
 - id: faq_header
-  translation: "经常问到的问题"
+  translation: "常见问题"
 
 - id: faq_subheader
-  translation: "你需要知道的东西"
+  translation: "常识"
 
 ### sia ###
 
@@ -637,4 +637,4 @@
   translation: "用细亚来开发你的应用" # TODO: update translation
 
 - id: getstarted_developstep5
-  translation: "Use Sia as your storage backend" # TODO: update translation
+  translation: "在你的后台存储中使用Sia" # TODO: update translation
